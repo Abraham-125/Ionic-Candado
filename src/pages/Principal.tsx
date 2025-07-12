@@ -52,7 +52,7 @@ const Principal: React.FC = () => {
                 <IonLabel>{nombre}</IonLabel>
               </IonItem>
               <div className="ion-padding" slot="content">
-                Usuario: --- <br />
+                Usuario: hola mundo <br />
                 Contraseña: ---
               </div>
             </IonAccordion>
