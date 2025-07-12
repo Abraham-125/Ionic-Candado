@@ -1,0 +1,7 @@
+{
+  "name": "MiAppIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
